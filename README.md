@@ -1,6 +1,6 @@
-#Supermarket Sales Analysis - Excel Dashboard
+# Supermarket Sales Analysis - Excel Dashboard
 
-##📌 Project Overview
+## 📌 Project Overview
 This project is a comprehensive sales dashboard designed in Excel to analyze supermarket sales data. It was developed as part of my internship at NTI (National Telecommunication Institute) in Data Analytics.
 
 The dashboard provides real-time insights into key performance metrics, allowing users to explore trends in sales, profit, and customer behavior.
